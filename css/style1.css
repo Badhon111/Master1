@@ -1,9 +1,9 @@
 @charset "utf-8";
-/* CSS Document */
-
-@charset "utf-8";
 
 /*main body css apply part*/
+/* main selector element user singnal = " Selectore "*/
+/* Id swelectore singnal for = " # " */
+/* class secectore for = "  . " (dot) */
 
 body {
 	color: black;
@@ -37,4 +37,19 @@ footer {
 		color: #666;
 		text-align: center;
 	background-color: black;
+}
+#footer-info {
+	float: none;
+	text-align: center;
+	color: red;
+}
+
+
+/* thatsc is post part */
+
+
+.div {
+ 	border: none;
+	text-indent: inherit;
+	
 }
