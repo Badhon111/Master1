@@ -31,25 +31,24 @@ p {
 	
 }
  			/* that's main footer of part */
-footer {
-		    float: none;
-		padding-bottom: 10px;
-		color: #666;
-		text-align: center;
-	background-color: black;
-}
+
 #footer-info {
 	float: none;
 	text-align: center;
 	color: red;
 }
-
+.footer-credit {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: #0D0BFF;
+	font-size: 30px;
+	position: relative;
+	border-bottom-left-radius: 24px;
+}
+.div {
+	width: auto;
+	border-top-width: inherit;
+	background-color: green;
+}
 
 /* thatsc is post part */
 
-
-.div {
- 	border: none;
-	text-indent: inherit;
-	
-}
