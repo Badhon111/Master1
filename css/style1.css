@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/*main body css apply part*/
+
+body {
+	color: cornsilk;
+	border: none;
+	
+}
+
+			/* h1  , h2 , h3 css main part */
+h1 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 26px;
+	font-style: italic;
+	color: black;
+	border: none;
+	align-content: center;
+	font-feature-settings: normal;
+}
+
+		/* main paragraph css part */
+p {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	color: black;
+	
+	
+}
