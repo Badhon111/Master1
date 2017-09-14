@@ -32,11 +32,7 @@ p {
 }
  			/* that's main footer of part */
 
-#footer-info {
-	float: none;
-	text-align: center;
-	color: red;
-}
+
 .footer-credit {
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
 	color: #0D0BFF;
@@ -44,11 +40,27 @@ p {
 	position: relative;
 	border-bottom-left-radius: 24px;
 }
-.div {
+.div-1 {
 	width: auto;
 	border-top-width: inherit;
 	background-color: green;
 }
+.div-2 {
+	width: auto;
+	border: hidden;
+	position: relative;
+	text-align: center;
+}
 
+/* Thats font main css */
+.text-footer-info {
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-size: 18px;
+	font-size-adjust: auto;
+	color: white;
+	text-align: center;
+	float: none;
+	
+}
 /* thatsc is post part */
 
